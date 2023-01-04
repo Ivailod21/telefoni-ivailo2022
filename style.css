@@ -1,36 +1,35 @@
-
-     h1 {
-         color: white;
-         text-align: center;
-         }
+h1 {
+	color: white;
+	text-align: center;
+}
 p {
-  color: white;
-  text-align: center;
-  }
+    color: white;
+    text-align: center;
+}
  h2 {
-         color: white;
-         text-align: center;
-         }
+     color: white;
+     text-align: center;
+}
  h3 {
-         color: white;
-         text-align: center;
-         }
+     color: white;
+     text-align: center;
+}
  h4 {
-         color: white;
-         text-align: center;
-         }
+     color: white;
+     text-align: center;
+}
  h5 {
-         color: white;
-         text-align: center;
-         }
+     color: white;
+     text-align: center;
+}
  h6{
-         color: white;
-         text-align: center;
-         }
+     color: white;
+     text-align: center;
+}
  h7 {
-         color: white;
-         text-align: center;
-         }
+     color: white;
+     text-align: center;
+}
 
          }
          img {
@@ -45,37 +44,37 @@ p {
          width: 320px;
          height: auto;
 
-         }
+}
   body {
-  background-color: black;
+        background-color: black;
 }
 h1 {
-  white-space: white;
-  width: 1200px;
-  border: 1px solid #000000;
-  overflow: hidden;
-  text-overflow: clip;
+    white-space: white;
+    width: 1200px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
 }
 h1 {
-  text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red;
 }
 h2 {
-  text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red;
 }
 h3 {
-  text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red;
 }
 h4 {
-  text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red;
 }
 h5 {
   text-shadow: 2px 2px 5px red;
 }
 h6 {
-  text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red;
 }
 h7 {
-  text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px red;
 }
 <button class='warning'>Warning</button>
 
@@ -86,7 +85,11 @@ h1 {
     font-size: 40px;
 }
 
-
+p {
+   font-family: 'HebertSansRegular';
+   font-weight: normal;
+   font-style: normal;
+} 
 
 }
 
